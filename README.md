@@ -66,13 +66,13 @@ The final CNN achieved an accuracy of 91.5% on the UrbanSound8K test set. Below 
 - **F1-Score**: 0.92
 
 ### Classification Report
-![Classification Report](classification_report.png)
+![Classification Report](documentation/classification_report.png)
 
 ### Loss Curves
-![Loss Curves](model7_loss.png)
+![Loss Curves](documentation/model7_loss.png)
 
 ### Accuracy Curves
-![Accuracy Curves](model7_accuracy.png)
+![Accuracy Curves](documentation/model7_accuracy.png)
 
 ## Usage
 
