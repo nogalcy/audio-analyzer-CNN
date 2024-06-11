@@ -1,0 +1,5 @@
+.venv
+__pycache__
+training
+tensorboard_histories
+model_checkpoints
