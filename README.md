@@ -96,7 +96,7 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 For any questions or inquiries, please reach out to me:
 
 - **Email**: clogan2004@gmail.com
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/cy-logan/)
-- **GitHub**: [Your GitHub Profile](https://github.com/nogalcy)
+- **LinkedIn**: [My Profile](https://www.linkedin.com/in/cy-logan/)
+- **GitHub**: [My Profile](https://github.com/nogalcy)
 
 
