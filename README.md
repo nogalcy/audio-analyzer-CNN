@@ -18,7 +18,7 @@ This project explores the use of Convolutional Neural Networks (CNN) for audio c
 
 ## Dataset
 
-We utilized the [UrbanSound8K-Dataset](https://urbansounddataset.weebly.com/urbansound8k.html), which consists of 8732 labeled sound excerpts (<=4s) of urban sounds from 10 classes. UrbanSound8K also provides the 'UrbanSound8k.csv' filled with metadata about each and every one of the 
+I utilized the [UrbanSound8K-Dataset](https://urbansounddataset.weebly.com/urbansound8k.html), which consists of 8732 labeled sound excerpts (<=4s) of urban sounds from 10 classes. UrbanSound8K also provides the 'UrbanSound8k.csv' filled with metadata about each and every one of the 
 provided samples. For this project specifically, much of the metadata provided in this .csv is ignored as I want to be able to use these techniques on datasets that are not quite as comprehensive as UrbanSound8K. In fact,
 much of the use of the .csv file comes from data discovery and finding quirks in the dataset including imperfect sampling rates and noise lengths that are covered and "fixed" in the data preprocessing portion of the code. Prior to feeding the CNN, the dataset undergoes significant preprocessing including resampling,
 padding, resizing, transformation into mel-spectrograms, and (eventually) augmentation to expand the dataset and provide an easier way for the CNN to learn general patterns in an attempt to prevent overfitting.
@@ -47,7 +47,7 @@ The architecture is as follows:
 
 ## Training
 
-We trained the CNN using the following parameters:
+I trained the CNN using the following parameters:
 - **Loss Function**: Categorical Cross-Entropy
 - **Optimizer**: Adam(lr = 0.001)
 - **Batch Size**: 32
