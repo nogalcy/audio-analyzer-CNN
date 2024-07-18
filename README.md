@@ -80,8 +80,8 @@ To use this project, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/your-repo.git
-   cd your-repo
+   git clone https://github.com/nogalcy/audio-analyzer-CNN.git
+   cd audio-analyzer-CNN
 2. **Install Dependencies**:
    ```bash
    pip install -r requirements.txt
